@@ -3,7 +3,7 @@ permalink: /about/
 title: "Acerca"
 ---
 
-Versión 1. De la materia Base de Datos II.
+Materia Base de Datos II. **UCOM 253**
 
 Bienvenidos, invito a todos los lectores a enviar sus comentarios, observaciones y sugerencias!
 
@@ -16,5 +16,5 @@ Bienvenidos, invito a todos los lectores a enviar sus comentarios, observaciones
 Mis agradecimientos sinceros a los autores de los siguientes 
 enlaces y referencias.
 
- - https://www.db-book.com/ 
+ - 
 
