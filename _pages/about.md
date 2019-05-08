@@ -16,5 +16,9 @@ Bienvenidos, invito a todos los lectores a enviar sus comentarios, observaciones
 Mis agradecimientos sinceros a los autores de los siguientes 
 enlaces y referencias.
 
- - 
+ - [Greenspun, P. SQL for Web Nerds](http://philip.greenspun.com/sql/)
+ - [Repositorio Python](http://oez.es/)
 
+ - [Python](https://github.com/vinta/awesome-python)
+
+ 

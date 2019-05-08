@@ -13,10 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: BaseDatosII
+title: BaseDatosII - UCOM253
 email: marobayo@uees.edu.ec
 description: >- # this means to ignore newlines until "baseurl:"
-  Base de Datos II (Databases II)
+  Base de Datos II,
+  Database Systems II
   Silabo de la Materia, Material, Oracle, SQLite, MongoDB
   Control Académico, Tareas, Proyecto de Bases de Datos II
   UEES - Universidad Espiritu Santo - Guayaquil - Ecuador
